@@ -31,7 +31,8 @@ body {
 .list .video {
     margin-top: px;
     padding-top: 50px;
-    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 .list .link {
     margin-top: px;
