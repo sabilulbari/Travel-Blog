@@ -12,15 +12,36 @@ body {
     padding: 20px;
     background-color: rgb(218, 255, 247);
 }
+.container {
+    max-width: 90%;
+    margin: auto;
+    padding: 50px;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.list li{
+    margin-left: 50px;
+    
+}
 
 .food {
     margin-top: 20px;
 }
 
+.list .video {
+    margin-top: px;
+    padding-top: 50px;
+    align-items: center;
+}
+.list .link {
+    margin-top: px;
+    padding-top: 50px;
+}
 
 .list_button {
     display: inline;
     margin-bottom: 10px;
+    
 }
 
 button {
