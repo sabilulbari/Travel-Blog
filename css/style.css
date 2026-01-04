@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+    background-color: rgb(218, 255, 247);
+}
+
+.food {
+    margin-top: 20px;
+}
+
+
+.list_button {
+    display: inline;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ff131349;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+}
+button:hover {
+    background-color: #45a049;
+}
